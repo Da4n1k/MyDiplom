@@ -1,0 +1,34 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OVRPlatform.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\User\Documents\Unreal Projects\Project Diplom\Intermediate\Build\Win64\x64\HandGameplayEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"C:\Users\User\Documents\Unreal Projects\Project Diplom\Plugins\Unreal5PlatformSDKPlugin.68.0\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\OVRPlatform.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Project Diplom\Plugins\Unreal5PlatformSDKPlugin.68.0\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\OVRPlatformCppPageRequests.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Project Diplom\Plugins\Unreal5PlatformSDKPlugin.68.0\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\OVRPlatformCppRequests.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Project Diplom\Plugins\Unreal5PlatformSDKPlugin.68.0\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\OVRPlatformEnums.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Project Diplom\Plugins\Unreal5PlatformSDKPlugin.68.0\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\OVRPlatformFunctions.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Project Diplom\Plugins\Unreal5PlatformSDKPlugin.68.0\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\OVRPlatformModels.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Project Diplom\Plugins\Unreal5PlatformSDKPlugin.68.0\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\OVRPlatformPageRequests.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Project Diplom\Plugins\Unreal5PlatformSDKPlugin.68.0\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\OVRPlatformRequests.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Project Diplom\Plugins\Unreal5PlatformSDKPlugin.68.0\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\OVRPlatformRequestsSupport.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Project Diplom\Plugins\Unreal5PlatformSDKPlugin.68.0\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\OVRPlatformSDK.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Project Diplom\Plugins\Unreal5PlatformSDKPlugin.68.0\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\OVRPlatformSubsystem.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Project Diplom\Plugins\Unreal5PlatformSDKPlugin.68.0\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\OVRPlatformUtils.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Project Diplom\Plugins\Unreal5PlatformSDKPlugin.68.0\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\OVRPlatform.init.gen.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Project Diplom\Plugins\Unreal5PlatformSDKPlugin.68.0\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\OVRPlatformEnums.gen.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Project Diplom\Plugins\Unreal5PlatformSDKPlugin.68.0\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\OVRPlatformFunctions.gen.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Project Diplom\Plugins\Unreal5PlatformSDKPlugin.68.0\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\OVRPlatformModels.gen.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Project Diplom\Plugins\Unreal5PlatformSDKPlugin.68.0\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\OVRPlatformOptions.gen.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Project Diplom\Plugins\Unreal5PlatformSDKPlugin.68.0\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\OVRPlatformPageRequests.gen.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Project Diplom\Plugins\Unreal5PlatformSDKPlugin.68.0\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\OVRPlatformRequests.gen.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Project Diplom\Plugins\Unreal5PlatformSDKPlugin.68.0\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\OVRPlatformRequestsSupport.gen.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Project Diplom\Plugins\Unreal5PlatformSDKPlugin.68.0\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\OVRPlatformSubsystem.gen.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Project Diplom\Plugins\Unreal5PlatformSDKPlugin.68.0\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\OVRPlatformTypes.gen.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Project Diplom\Plugins\Unreal5PlatformSDKPlugin.68.0\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\OVRPlatformUtils.gen.cpp.obj"
+"C:\Users\User\Documents\Unreal Projects\Project Diplom\Plugins\Unreal5PlatformSDKPlugin.68.0\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\Default.rc2.res"
+/OUT:"C:\Users\User\Documents\Unreal Projects\Project Diplom\Plugins\Unreal5PlatformSDKPlugin.68.0\MetaXRPlatform\Intermediate\Build\Win64\x64\UnrealEditor\Development\OVRPlatform\UnrealEditor-OVRPlatform.lib"

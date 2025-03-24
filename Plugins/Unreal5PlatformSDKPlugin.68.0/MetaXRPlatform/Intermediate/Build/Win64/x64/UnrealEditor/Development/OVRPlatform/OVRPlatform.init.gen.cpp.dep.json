@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\documents\\unreal projects\\project diplom\\plugins\\unreal5platformsdkplugin.68.0\\metaxrplatform\\intermediate\\build\\win64\\unrealeditor\\inc\\ovrplatform\\uht\\ovrplatform.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\documents\\unreal projects\\project diplom\\intermediate\\build\\win64\\x64\\handgameplayeditor\\development\\unrealed\\sharedpch.unrealed.project.novalfmtstr.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\user\\documents\\unreal projects\\project diplom\\plugins\\unreal5platformsdkplugin.68.0\\metaxrplatform\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ovrplatform\\definitions.ovrplatform.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
