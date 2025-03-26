@@ -1,4 +1,4 @@
-C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Intermediate/Build/Android/a/UnrealGame/Development/OVRPlatform/Module.OVRPlatform.3.cpp.o: \
+C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Intermediate/Build/Android/a/UnrealGame/Development/OVRPlatform/Module.OVRPlatform.4.cpp.o: \
   C:/Program\ Files/Epic\ Games/UE_5.4/Engine/Source/Runtime/Experimental/Chaos/Public/Chaos/Framework/PhysicsProxy.h \
   C:/Program\ Files/Epic\ Games/UE_5.4/Engine/Source/Runtime/Experimental/Chaos/Public/Chaos/ChaosDebugDraw.h \
   C:/Program\ Files/Epic\ Games/UE_5.4/Engine/Source/Runtime/Experimental/ChaosVisualDebugger/Public/DataWrappers/ChaosVDImplicitObjectDataWrapper.h \
@@ -1903,17 +1903,14 @@ C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlug
   C:/Users/User/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/stdexcept \
   C:/Users/User/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/functional \
   C:/Users/User/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/bit \
-  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Intermediate/Build/Android/a/UnrealGame/Development/OVRPlatform/Module.OVRPlatform.3.cpp \
+  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Intermediate/Build/Android/a/UnrealGame/Development/OVRPlatform/Module.OVRPlatform.4.cpp \
   C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Intermediate/Build/Android/a/UnrealGame/Development/OVRPlatform/Definitions.OVRPlatform.h \
-  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Intermediate/Build/Android/UnrealGame/Inc/OVRPlatform/UHT/OVRPlatformRequestsSupport.gen.cpp \
-  Runtime/CoreUObject/Public/UObject/GeneratedCppIncludes.h \
-  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformRequestsSupport.h \
-  Runtime/Engine/Classes/Engine/LatentActionManager.h \
-  Runtime/Engine/Public/LatentActions.h \
-  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformSubsystem.h \
-  Runtime/Core/Public/CoreMinimal.h Runtime/Engine/Public/Tickable.h \
-  Runtime/Engine/Public/Subsystems/GameInstanceSubsystem.h \
-  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformSDK.h \
+  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Private/OVRPlatformFunctions.cpp \
+  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformFunctions.h \
+  Runtime/Core/Public/CoreMinimal.h \
+  Runtime/Engine/Classes/Kismet/BlueprintFunctionLibrary.h \
+  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformModels.h \
+  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformTypes.h \
   C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Platform.h \
   C:/Users/User/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/stdbool.h \
   C:/Users/User/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/lib64/clang/14.0.6/include/stdbool.h \
@@ -2090,7 +2087,6 @@ C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlug
   C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Functions_ApplicationLifecycle.h \
   C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_LaunchResult.h \
   C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_Functions_Voip.h \
-  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformTypes.h \
   Runtime/Core/Public/Misc/CString.h \
   C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformEnums.h \
   C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatformSDK/LibOVRPlatform/include/OVR_NetSyncVoipMicSource.h \
@@ -2102,8 +2098,22 @@ C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlug
   Runtime/CoreUObject/Public/UObject/ReflectedTypeAccessors.h \
   C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Intermediate/Build/Android/UnrealGame/Inc/OVRPlatform/UHT/OVRPlatformTypes.generated.h \
   Runtime/CoreUObject/Public/UObject/ScriptMacros.h \
-  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformModels.h \
   C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Intermediate/Build/Android/UnrealGame/Inc/OVRPlatform/UHT/OVRPlatformModels.generated.h \
+  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformOptions.h \
+  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Intermediate/Build/Android/UnrealGame/Inc/OVRPlatform/UHT/OVRPlatformOptions.generated.h \
+  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Intermediate/Build/Android/UnrealGame/Inc/OVRPlatform/UHT/OVRPlatformFunctions.generated.h \
+  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Private/OVRPlatformRequestsConverters.h \
+  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Private/OVRPlatformOptionsConverters.h \
+  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Private/OVRPlatformModels.cpp \
+  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Private/OVRPlatformPageRequests.cpp \
+  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformPageRequests.h \
+  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformRequestsSupport.h \
+  Runtime/Engine/Classes/Engine/LatentActionManager.h \
+  Runtime/Engine/Public/LatentActions.h \
+  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformSubsystem.h \
+  Runtime/Engine/Public/Tickable.h \
+  Runtime/Engine/Public/Subsystems/GameInstanceSubsystem.h \
+  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformSDK.h \
   C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Intermediate/Build/Android/UnrealGame/Inc/OVRPlatform/UHT/OVRPlatformSubsystem.generated.h \
   Runtime/ApplicationCore/Public/Android/AndroidApplication.h \
   Runtime/ApplicationCore/Public/GenericPlatform/GenericApplication.h \
@@ -2123,22 +2133,34 @@ C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlug
   Runtime/Core/Public/CoreTypes.h Runtime/Core/Public/Containers/Array.h \
   Runtime/Core/Public/Containers/UnrealString.h \
   Runtime/Engine/Classes/Engine/Engine.h \
-  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Intermediate/Build/Android/UnrealGame/Inc/OVRPlatform/UHT/OVRPlatformSubsystem.gen.cpp \
+  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Intermediate/Build/Android/UnrealGame/Inc/OVRPlatform/UHT/OVRPlatformPageRequests.generated.h \
+  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Private/OVRPlatformRequests.cpp \
+  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformRequests.h \
+  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Intermediate/Build/Android/UnrealGame/Inc/OVRPlatform/UHT/OVRPlatformRequests.generated.h \
+  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformCppRequests.h \
+  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformCppPageRequests.h \
+  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Private/OVRPlatformRequestsSupport.cpp \
   Runtime/Engine/Classes/Engine/GameInstance.h \
-  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Intermediate/Build/Android/UnrealGame/Inc/OVRPlatform/UHT/OVRPlatformTypes.gen.cpp \
-  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Intermediate/Build/Android/UnrealGame/Inc/OVRPlatform/UHT/OVRPlatformUtils.gen.cpp \
-  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformUtils.h \
-  Runtime/Engine/Classes/Kismet/BlueprintFunctionLibrary.h \
-  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Intermediate/Build/Android/UnrealGame/Inc/OVRPlatform/UHT/OVRPlatformUtils.generated.h \
-  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Private/OVRPlatform.cpp \
+  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Private/OVRPlatformSDK.cpp \
+  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Private/OVRPlatformSubsystem.cpp \
+  Runtime/Core/Public/Misc/ConfigCacheIni.h \
+  Runtime/Core/Public/Misc/OutputDeviceNull.h \
+  Runtime/Core/Public/Logging/LogVerbosity.h \
+  Runtime/Core/Public/Misc/OutputDevice.h \
+  Runtime/Core/Public/Misc/CommandLine.h \
   C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatform.h \
   Runtime/Core/Public/Modules/ModuleManager.h \
-  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Private/OVRPlatformCppPageRequests.cpp \
-  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformCppPageRequests.h \
-  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformOptions.h \
-  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Intermediate/Build/Android/UnrealGame/Inc/OVRPlatform/UHT/OVRPlatformOptions.generated.h \
-  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Private/OVRPlatformRequestsConverters.h \
-  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Private/OVRPlatformOptionsConverters.h \
-  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Private/OVRPlatformCppRequests.cpp \
-  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformCppRequests.h \
-  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Private/OVRPlatformEnums.cpp
+  Runtime/Launch/Resources/Version.h \
+  C:/Users/User/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/string \
+  C:/Users/User/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/string_view \
+  C:/Users/User/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/__string \
+  C:/Users/User/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cstdio \
+  C:/Users/User/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cwchar \
+  C:/Users/User/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cwctype \
+  C:/Users/User/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cctype \
+  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Private/OVRPlatformUtils.cpp \
+  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Source/OVRPlatform/Public/OVRPlatformUtils.h \
+  C:/Users/User/Documents/Unreal\ Projects/MyDiplom/Plugins/Unreal5PlatformSDKPlugin.68.0/MetaXRPlatform/Intermediate/Build/Android/UnrealGame/Inc/OVRPlatform/UHT/OVRPlatformUtils.generated.h \
+  Runtime/Core/Public/Misc/DefaultValueHelper.h \
+  Runtime/Core/Public/Math/MathFwd.h Runtime/Core/Public/Misc/Timespan.h \
+  Runtime/Core/Public/Misc/DateTime.h
